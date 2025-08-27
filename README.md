@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%2C%20I'm%20BusiReddySainadhaReddy!&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%2C%20I'm%20Busi%20Reddy%20Sainadha%20Reddy!&fontSize=50)
 <p>
 align="top">
   <img src="https://komarev.com/ghpvc/?username=lassiecoder&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="lassiecoder" />
