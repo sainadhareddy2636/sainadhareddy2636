@@ -1,5 +1,14 @@
 ## Hi there 👋
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%2C%20I'm%20YourName!&fontSize=50)
+<p>
+align="top">
+  <img src="https://komarev.com/ghpvc/?username=lassiecoder&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="lassiecoder" />
+</p>
+### :computer: Skills
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
+![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg)
 <!--
 **sainadhareddy2636/sainadhareddy2636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
