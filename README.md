@@ -1,13 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20👋,%20I'm%20Busi%20Reddy%20Sainadha%20Reddy!&fontSize=40&fontColor=ffffff&color=gradient&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55&descAlign=50)
 
 ### 🌐 Connect with Me  
-<p
-<a href="https://www.linkedin.com/in/busireddysainadhareddy1626" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-       alt="LinkedIn" width="40" height="40"/>
-</a>
 
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busireddysainadhareddy1626)
+
+
 <h2 align="left" style="color:#4CAF50;">💻 Skills</h2>
 <h3 style="color:#2F855A; font-size:22px;">💻 Programming Languages</h3>
 <p>
