@@ -54,5 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" title="Notion" width="40" height="40"/>
 </p>
 
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E3C72,100:2A5298&fontColor=ffffff&text=✨%20Thanks%20for%20visiting%20❤️%20✨&fontSize=25)
 
